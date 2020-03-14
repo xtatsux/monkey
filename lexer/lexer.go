@@ -1,4 +1,4 @@
-package lexar
+package lexer
 
 import "github.com/xtatsux/monkey/token"
 
