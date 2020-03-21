@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/user"
 
-	"github.com/xtatsux/monkey/repl"
+	"monkey/repl"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package ast
 import (
 	"bytes"
 
-	"github.com/xtatsux/monkey/token"
+	"monkey/token"
 )
 
 type Node interface {
